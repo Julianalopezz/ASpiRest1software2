@@ -1,0 +1,13 @@
+[
+    { 
+        "id": 1,
+        "producto": "perfume",
+        "codigoproducto": "0204"
+    },
+    {  
+    "id": 2,
+    "producto": "crema",
+    "codigoproducto": "0302"
+}
+
+]
